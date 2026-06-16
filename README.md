@@ -20,3 +20,5 @@ Linguagens: Python, JavaScript (ES6+), SQL.
 Front-end: HTML5, CSS3, Design Responsivo.
 Data & IoT: Power BI (Dashboards Avançados), Telemetria, Automação Industrial 4.0.
 Infraestrutura: IT Infrastructure Management, Redes (CAT 5/6), Gestão de Ativos (ISO 55001).
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
