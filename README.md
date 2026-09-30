@@ -31,12 +31,6 @@ com SQL e transformo fontes reais em informação estruturada.
 - arquitetura de dados em camadas (bronze/prata/ouro)
 - ingestão de dados em tempo real via API REST/JSON
 
-### Projetos publicados
-
-- [case-tratamento-input](https://github.com/renatoapdl/case-tratamento-input) — 13 regras de negócio em uma única consulta Databricks SQL, com auditoria coluna a coluna
-- [pipeline-etl-vendas](https://github.com/renatoapdl/pipeline-etl-vendas) — pipeline ETL em PySpark com validação (27 → 25 → 23 registros) e carga em Parquet
-- [renato](https://github.com/renatoapdl/renato) — portfólio pessoal publicado em GitHub Pages
-
 ---
 
 [LinkedIn](https://www.linkedin.com/in/renatoabreuengenharia/) ·
