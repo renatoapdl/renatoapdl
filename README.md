@@ -41,7 +41,7 @@ em informação estruturada e **garanto qualidade com gate de bloqueio, testes a
 
 ### Projetos principais
 
-- **pipeline-etl-vendas** — ETL Medallion + Airflow 3 + Docker + quality gate + 11 testes + CI/CD  
+- **pipeline-etl-vendas** — ETL Medallion sobre a base Olist (Kaggle): 7 tabelas no Silver, 4 dims + 2 fatos no Gold (112.650 itens), quality gate que bloqueia a publicação, 22 testes, Airflow 3 + Docker e CI/CD  
   `Python · PySpark · Airflow · Docker · Databricks · pytest`
 - **case-tratamento-input** — 13 regras de qualidade em uma query Databricks SQL  
   `Databricks SQL · Data Quality`
